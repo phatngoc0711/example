@@ -19,6 +19,7 @@
         <module>toeic-core-dao</module>
         <module>toiec-core-common</module>
         <module>toiec-core-persistence-data</module>
+        <module>toiec-core-service-impl</module>
     </modules>
 
     <properties>
