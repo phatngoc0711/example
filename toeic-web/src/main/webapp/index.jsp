@@ -1,11 +1,2 @@
-<html>
-<head>
-    <title>Toiec Online</title>
-
-</head>
-<body>
-<h1>
-    Phat dep trai
-</h1>
-</body>
-</html>
+<%@ include file="common/taglib.jsp"%>
+<c:redirect url="admin-home.html"/>
